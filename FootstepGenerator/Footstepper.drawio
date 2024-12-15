@@ -1,0 +1,164 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="bsbqSzvmZufV8jHW4SDA">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NHehBF8NbhOFdixztNts-1" value="&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; text-align: left; white-space-collapse: break-spaces; background-color: oklab(0.0846607 0.00000385568 0.00000169128 / 0.06);&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Footsteps App&lt;br&gt;Feature List&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;ol style=&quot;margin-top: 4px; margin-right: 0px; margin-bottom: 0px; margin-left: calc(.4em + .6em*var(--totalCharacters)); padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; list-style-position: outside; list-style-image: initial; text-align: left; white-space-collapse: break-spaces; background-color: oklab(0.0846607 0.00000385568 0.00000169128 / 0.06); --totalCharacters: 1;&quot; start=&quot;1&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;File upload&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Connecting heel&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;-toe audio files&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Audio modulation&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Audio pitch manipulation&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;GUI &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;(semi&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;-optional&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Time between heel&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;-toe &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;(optional&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;C&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;+ implementation &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;(optional&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Interfacing with game engine &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;(optional&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; text-align: left; white-space-collapse: break-spaces; background-color: oklab(0.0846607 0.00000385568 0.00000169128 / 0.06);&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;br&gt;Necessary Tools&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;ol style=&quot;margin-top: 4px; margin-right: 0px; margin-bottom: 0px; margin-left: calc(.4em + .6em*var(--totalCharacters)); padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; list-style-position: outside; list-style-image: initial; text-align: left; white-space-collapse: break-spaces; background-color: oklab(0.0846607 0.00000385568 0.00000169128 / 0.06); --totalCharacters: 1;&quot; start=&quot;1&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Audio file uploading&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Audio stitching through code&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;Audio frequency manipulation library&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;UI &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;(consider TKInter or find a drag and drop UI designer &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;/ implementer&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="430" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NHehBF8NbhOFdixztNts-7" target="NHehBF8NbhOFdixztNts-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="445" />
+              <mxPoint x="648" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NHehBF8NbhOFdixztNts-7" target="NHehBF8NbhOFdixztNts-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="440" />
+              <mxPoint x="460" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-7" value="MainApplication" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="500" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-8" value="AudioFileHandler" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="400" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-9" value="WaveformEffects" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="593" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OBJECT RESPONSIBILITY&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;MainApplication &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- creates UI and calls all other audio functions.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;AudioFileHandler&lt;/b&gt;&amp;nbsp;- handles file read and write operations, plus stitches heel-toe files together.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;WaveformEffects&lt;/b&gt;&amp;nbsp;- applies pitch and modulation effects to the stitched audio file.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="390" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-15" value="MainApplication" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="170" y="600" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-15" vertex="1">
+          <mxGeometry x="45" y="50" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-15" vertex="1">
+          <mxGeometry x="45" y="270" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-15" vertex="1">
+          <mxGeometry x="45" y="390" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-16" value="AudioFileHandler" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="330" y="600" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-16" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-16" vertex="1">
+          <mxGeometry x="45" y="130" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-25" value="loadHeelToeFiles()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="NHehBF8NbhOFdixztNts-16" target="NHehBF8NbhOFdixztNts-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-16" vertex="1">
+          <mxGeometry x="45" y="170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-27" value="stitchHeelToeFiles()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="NHehBF8NbhOFdixztNts-16" target="NHehBF8NbhOFdixztNts-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-16" vertex="1">
+          <mxGeometry x="45" y="390" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-17" value="WaveformEffects" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="490" y="600" width="100" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-17" vertex="1">
+          <mxGeometry x="45" y="270" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NHehBF8NbhOFdixztNts-17" vertex="1">
+          <mxGeometry x="45" y="330" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-37" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="NHehBF8NbhOFdixztNts-17" vertex="1">
+          <mxGeometry x="35" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-19" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="40" y="600" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-22" value="GenerateFootsteps()" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-15" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="670" as="sourcePoint" />
+            <mxPoint x="110" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-23" value="generateHeelToe()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-16" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="219.9999999999999" y="690" as="sourcePoint" />
+            <mxPoint x="315" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-28" value="return footstepsAudio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374.9999999999999" y="800" as="sourcePoint" />
+            <mxPoint x="220.20588235294122" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-30" value="shiftPitch()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-17" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="880" as="sourcePoint" />
+            <mxPoint x="300" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-33" value="return pitchShiftedFootsteps" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539.5" y="900" as="sourcePoint" />
+            <mxPoint x="430" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-35" value="applyModulation()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-17" edge="1">
+          <mxGeometry x="0.0016" width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="940" as="sourcePoint" />
+            <mxPoint x="300" y="940" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-36" value="return modulatedFootsteps" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="960" as="sourcePoint" />
+            <mxPoint x="460" y="960" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-40" value="saveAudioFile()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-16" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="1000" as="sourcePoint" />
+            <mxPoint x="300" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHehBF8NbhOFdixztNts-41" value="return fileSaved" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="NHehBF8NbhOFdixztNts-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1020" as="sourcePoint" />
+            <mxPoint x="300" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="in2EQAjo5oCpJsj6TC2d-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Python Libraries to Use&lt;/h1&gt;&lt;p&gt;&lt;b&gt;OS &lt;/b&gt;- useful for paths of files.&lt;/p&gt;&lt;p&gt;&lt;b&gt;PyDub&lt;/b&gt;&amp;nbsp;- contains functionality for loading audio files, stitching them and applying audio effects. Effects are limited, so need to verify that we have the ones which we need. Also need to test that speed is equivalent to pitch.&lt;/p&gt;&lt;p&gt;&lt;b&gt;PedalBoard &lt;/b&gt;- use as backup if PyDub provides insufficient effects.&lt;/p&gt;&lt;p&gt;&lt;b&gt;wxPython&lt;/b&gt;&amp;nbsp;- frontend&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1200" width="750" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="in2EQAjo5oCpJsj6TC2d-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Frontend Spec&lt;/h1&gt;&lt;p&gt;- Generate button (apply effects and create output file)&lt;/p&gt;&lt;p&gt;- Playback button&lt;/p&gt;&lt;p&gt;- Room size slider&lt;/p&gt;&lt;p&gt;- Damping slider&lt;/p&gt;&lt;p&gt;- Wet-level slider&lt;/p&gt;&lt;p&gt;- Dry-level slider&lt;/p&gt;&lt;p&gt;- Low-pass slider&lt;/p&gt;&lt;p&gt;- Gain bias&lt;/p&gt;&lt;p&gt;- Gain offset&lt;/p&gt;&lt;p&gt;- Surface select (optional)&lt;/p&gt;&lt;p&gt;- Manual control sliders (optional)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="35" y="1450" width="185" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="in2EQAjo5oCpJsj6TC2d-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Effect Chain&lt;/h1&gt;&lt;div&gt;pitch&lt;/div&gt;&lt;div&gt;low-pass&lt;/div&gt;&lt;div&gt;reverb&lt;/div&gt;&lt;div&gt;volume / gain&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1440" width="185" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
